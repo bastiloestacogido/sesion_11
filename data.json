@@ -1,10 +1,42 @@
 [
     { 
-        "title": "dibujo",
+        "title": "dibujo-1",
         "date": "20-05-2023",
         "format": "Tradicional",
         "technique": "Tinta China",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
         "img": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed."
+    },
+    { 
+        "title": "dibujo-2",
+        "date": "01-03-2023",
+        "format": "Tradicional",
+        "technique": "Tinta China",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "img": "..."
+    },
+    { 
+        "title": "dibujo-3",
+        "date": "14-08-2021",
+        "format": "Digital",
+        "technique": "Pixel Art",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "img": "..."
+    },
+    { 
+        "title": "dibujo-4",
+        "date": "18-09-2022",
+        "format": "Tradicional",
+        "technique": "Carboncillo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "img": "..."
+    },
+    { 
+        "title": "dibujo-5",
+        "date": "22-06-2022",
+        "format": "Tradicional",
+        "technique": "Acuarelas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "img": "..."
     }
 ]
